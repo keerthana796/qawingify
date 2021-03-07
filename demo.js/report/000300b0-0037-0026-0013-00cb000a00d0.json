@@ -1,0 +1,1 @@
+{"description":"verify if the password is not entered it should shown an toast message|protractor demo","passed":true,"pending":false,"os":"Windows","instanceId":8728,"browser":{"name":"chrome","version":"89.0.4389.82"},"message":"Passed.","trace":"","browserLogs":[],"screenShotFile":"000300b0-0037-0026-0013-00cb000a00d0.png","timestamp":1615092479584,"duration":272}
